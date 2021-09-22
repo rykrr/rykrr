@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello!
 
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=rykrr&private_repos=true)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rykrr&private_repos=true&layout=compact&langs_count=6)
 
 <!--
 **rykrr/rykrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
