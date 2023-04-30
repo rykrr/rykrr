@@ -1,6 +1,9 @@
-### Hello!
+### Ryan H. Kerr
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rykrr&private_repos=true&layout=compact&langs_count=6&hide=javascript,html)
+Hello! I am a Master's student at Queen's University with an interest in systems programming and programming languages.
+My current hobby project is a GameBoy Emulator in Rust.
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rykrr&private_repos=true&layout=compact&langs_count=6&hide=javascript,html,css)
 
 <!--
 **rykrr/rykrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
