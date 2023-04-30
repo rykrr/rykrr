@@ -1,7 +1,9 @@
 ### Ryan H. Kerr
 
 Hello! I am a Master's student at Queen's University with an interest in systems programming and programming languages.
+My day job is writing reinforcement learning agents in PyTorch and logic engines in Haskell.
 My current hobby project is a GameBoy Emulator in Rust.
+I am very bad at programming.
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rykrr&private_repos=true&layout=compact&langs_count=6&hide=javascript,html,css)
 
